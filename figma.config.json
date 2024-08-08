@@ -1,0 +1,6 @@
+{
+  "codeConnect": {
+    "include": ["/**/*.kt"],
+    "parser": "compose"
+  }
+}
