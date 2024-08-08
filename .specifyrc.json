@@ -5,13 +5,13 @@
   "version": "2",
   "rules": [
     {
-      "name": "SDTF",
+      "name": "To Kotlin",
       "parsers": [
         {
-          "name": "to-sdtf",
+          "name": "to-kotlin",
           "output": {
             "type": "file",
-            "filePath": "output/tokens.json"
+            "filePath": "public/tokens.kt"
           }
         }
       ]
